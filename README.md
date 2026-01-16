@@ -18,9 +18,9 @@
 > 它通过植入"虚拟记忆"，强制 AI 模拟高压环境 (Simulated Pressure)，严格遵守"证据优先" (Evidence First) 原则，并进行深度反思 (Forced Reflection)。
 > 
 > *包含核心资产：*
-> *   **7段式虚拟记忆剧本** (7-Stage Virtual Memory Script)
-> *   **【停】字决中断机制** (The STOP Trigger)
-> *   **风险自检模板** (Risk Assessment Template)
+> *   **7段式虚拟记忆剧本**
+> *   **【停】字决中断机制**
+> *   **风险自检模板**
 
 ---
 
